@@ -8,6 +8,8 @@
 
 
 const urls = [
-	'https://docs.google.com/forms/d/e/1FAIpQLSelfqS73TZ-M3V9b82lIEOne2-KT8ZR3jpF4kGjrt7Buyk_ow/viewform?usp=dialog',
-	'https://docs.google.com/forms/d/e/1FAIpQLScmofiRHdO1nscBYYoC_U7qcsqkBkhAYksNzByH5l0UrOKuow/viewform?usp=dialog',
+	'https://zh.surveymonkey.com/r/CLMVY7L',
+	'https://zh.surveymonkey.com/r/CLTXHW6',
+	'https://zh.surveymonkey.com/r/CLRHS2Z',
+	'https://zh.surveymonkey.com/r/XJBTBWQ'
 ];
